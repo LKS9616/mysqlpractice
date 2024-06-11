@@ -3,6 +3,7 @@ select
     emp_name,
     dept_code
 from
+    employee;
 
 -- EMPLOYEE 테이블과 JOB 테이블을 조인하여, 각 직원의 이름과 그 직원의 직급명을 조회하시오.
 
