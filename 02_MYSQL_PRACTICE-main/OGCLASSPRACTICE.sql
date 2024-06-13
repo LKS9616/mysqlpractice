@@ -21,3 +21,12 @@ create table if not exists favorite_subject
     subject_name varchar(255) not null unique,
     primary key (subject_no)
 );
+
+insert into favorite_subject
+(subject_no, subject_name)
+values(null, 'JAVA'),
+      (null, 'MYSQL'),
+      (null, 'JDBC'),
+      (null, 'MYBATIS'),
+      (null, 'SPRING'),
+      (null, 'REACT');
