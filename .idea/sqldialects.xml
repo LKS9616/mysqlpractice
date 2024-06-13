@@ -5,9 +5,11 @@
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/00_계정생성및권한부여.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/01_SELECT_HW.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/02_ORDER_BY_HW.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/03_WHERE_HW.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/04_PRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/05_PRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/06_PRACTIVE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/OGCLASSPRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_MYSQL_PRACTICE-main/SELECT_WHERE.sql" dialect="MySQL" />
   </component>
 </project>
